@@ -54,7 +54,7 @@ Below is a comparison of leading SaaS database branching platforms, sorted in de
 
 ## 🛠️ Open-Source Projects & Frameworks 🔓
 
-Below are prominent open-source repositories driving database branching, schema migrations, and database CI/CD, sorted in descending order by GitHub Stars_Count:
+Below are prominent open-source repositories driving database branching, schema migrations, and database CI/CD, sorted in descending order by GitHub_Stars_Count:
 
 - **[Prisma](https://github.com/prisma/prisma)** 
   [![GitHub_Stars](https://img.shields.io/github/stars/prisma/prisma?style=social&color=white)](https://github.com/prisma/prisma/stargazers)
