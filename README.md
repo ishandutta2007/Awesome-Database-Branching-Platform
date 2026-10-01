@@ -54,37 +54,37 @@ Below is a comparison of leading SaaS database branching platforms, sorted in de
 
 ## 🛠️ Open-Source Projects & Frameworks 🔓
 
-Below are prominent open-source repositories driving database branching, schema migrations, and database CI/CD, sorted in descending order by GitHub Star count:
+Below are prominent open-source repositories driving database branching, schema migrations, and database CI/CD, sorted in descending order by GitHub Stars_Count:
 
 - **[Prisma](https://github.com/prisma/prisma)** 
-  [![GitHub stars](https://img.shields.io/github/stars/prisma/prisma?style=social&color=white)](https://github.com/prisma/prisma/stargazers)
+  [![GitHub_Stars](https://img.shields.io/github/stars/prisma/prisma?style=social&color=white)](https://github.com/prisma/prisma/stargazers)
   Next-generation ORM and declarative database schema management ecosystem for Node.js and TypeScript.
 - **[Drizzle ORM](https://github.com/drizzle-team/drizzle-orm)** 
-  [![GitHub stars](https://img.shields.io/github/stars/drizzle-team/drizzle-orm?style=social&color=white)](https://github.com/drizzle-team/drizzle-orm/stargazers)
+  [![GitHub_Stars](https://img.shields.io/github/stars/drizzle-team/drizzle-orm?style=social&color=white)](https://github.com/drizzle-team/drizzle-orm/stargazers)
   Headless TypeScript ORM with lightweight schema declaration and migration branching capabilities.
 - **[Bytebase](https://github.com/bytebase/bytebase)** 
-  [![GitHub stars](https://img.shields.io/github/stars/bytebase/bytebase?style=social&color=white)](https://github.com/bytebase/bytebase/stargazers)
+  [![GitHub_Stars](https://img.shields.io/github/stars/bytebase/bytebase?style=social&color=white)](https://github.com/bytebase/bytebase/stargazers)
   Open-source database CI/CD, migration control plane, and SQL review pipeline for developer DevOps.
 - **[Flyway](https://github.com/flyway/flyway)** 
-  [![GitHub stars](https://img.shields.io/github/stars/flyway/flyway?style=social&color=white)](https://github.com/flyway/flyway/stargazers)
+  [![GitHub_Stars](https://img.shields.io/github/stars/flyway/flyway?style=social&color=white)](https://github.com/flyway/flyway/stargazers)
   Industry-standard open-source database migration and version control tool for multi-database environments.
 - **[Atlas](https://github.com/ariga/atlas)** 
-  [![GitHub stars](https://img.shields.io/github/stars/ariga/atlas?style=social&color=white)](https://github.com/ariga/atlas/stargazers)
+  [![GitHub_Stars](https://img.shields.io/github/stars/ariga/atlas?style=social&color=white)](https://github.com/ariga/atlas/stargazers)
   Declarative schema-as-code management engine powered by HCL, enabling automated database migration workflows.
 - **[dbmate](https://github.com/amacneil/dbmate)** 
-  [![GitHub stars](https://img.shields.io/github/stars/amacneil/dbmate?style=social&color=white)](https://github.com/amacneil/dbmate/stargazers)
+  [![GitHub_Stars](https://img.shields.io/github/stars/amacneil/dbmate?style=social&color=white)](https://github.com/amacneil/dbmate/stargazers)
   Lightweight, framework-agnostic database migration tool supporting PostgreSQL, MySQL, SQLite, and ClickHouse.
 - **[Liquibase](https://github.com/liquibase/liquibase)** 
-  [![GitHub stars](https://img.shields.io/github/stars/liquibase/liquibase?style=social&color=white)](https://github.com/liquibase/liquibase/stargazers)
+  [![GitHub_Stars](https://img.shields.io/github/stars/liquibase/liquibase?style=social&color=white)](https://github.com/liquibase/liquibase/stargazers)
   Enterprise-grade database change management and schema revision tracking tool.
 - **[pg_roll](https://github.com/xataio/pg_roll)** 
-  [![GitHub stars](https://img.shields.io/github/stars/xataio/pg_roll?style=social&color=white)](https://github.com/xataio/pg_roll/stargazers)
+  [![GitHub_Stars](https://img.shields.io/github/stars/xataio/pg_roll?style=social&color=white)](https://github.com/xataio/pg_roll/stargazers)
   Zero-downtime schema migration tool for PostgreSQL using expand-and-contract view techniques.
 - **[Xata Core](https://github.com/xataio/xata)** 
-  [![GitHub stars](https://img.shields.io/github/stars/xataio/xata?style=social&color=white)](https://github.com/xataio/xata/stargazers)
+  [![GitHub_Stars](https://img.shields.io/github/stars/xataio/xata?style=social&color=white)](https://github.com/xataio/xata/stargazers)
   Open-source serverless PostgreSQL platform delivering copy-on-write branching at the block storage layer.
 - **[RiftDB](https://github.com/riftdata/rift)** 
-  [![GitHub stars](https://img.shields.io/github/stars/riftdata/rift?style=social&color=white)](https://github.com/riftdata/rift/stargazers)
+  [![GitHub_Stars](https://img.shields.io/github/stars/riftdata/rift?style=social&color=white)](https://github.com/riftdata/rift/stargazers)
   Self-hosted copy-on-write database proxy for instant PostgreSQL development branching.
 
 ---
